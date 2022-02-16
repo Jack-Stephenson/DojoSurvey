@@ -1,29 +1,29 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
+using DojoSurvey.Models;
 namespace DojoSurvey.Controllers
 {
     public class SurveyController : Controller
     {
-        public static List<string> FormInfo = new List<string>();
+        public static Survey survey = new Survey();
         [HttpGet("")]
-        public ViewResult Index()
+        public IActionResult Index()
         {
             return View();
         }
-        [HttpPost("post")]
-        public IActionResult Post(string name, string location, string language, string comment)
+        [HttpPost("Create")]
+        public IActionResult Create(Survey surveyInfo)
         {
-            FormInfo.Add(name);
-            FormInfo.Add(location);
-            FormInfo.Add(language);
-            FormInfo.Add(comment);
-            return RedirectToAction("Result");
+            if (ModelState.IsValid)
+            {
+                survey = surveyInfo;
+                return RedirectToAction("result");
+            }
+            return View("Index");
         }
         [HttpGet("result")]
-        public ViewResult Result()
+        public IActionResult Result()
         {
-            ViewBag.FormInfo = FormInfo;
-            return View("Result");
+            return View(model: survey);
         }
     }
 }

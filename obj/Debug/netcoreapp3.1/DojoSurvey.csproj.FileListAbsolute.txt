@@ -19,8 +19,6 @@ C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoS
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.TagHelpers.input.cache
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.TagHelpers.output.cache
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.RazorCoreGenerate.cache
-C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\Razor\Views\Survey\Index.cshtml.g.cs
-C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\Razor\Views\Survey\Result.cshtml.g.cs
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.RazorTargetAssemblyInfo.cache
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.RazorTargetAssemblyInfo.cs
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.Views.pdb
@@ -30,3 +28,6 @@ C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoS
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.pdb
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.genruntimeconfig.cache
 C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\DojoSurvey.csproj.CopyComplete
+C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\Razor\Views\Survey\Index.cshtml.g.cs
+C:\Users\jackr\Documents\CodingDojo Master Files\CodingDojo Assignments\c#\DojoSurvey\obj\Debug\netcoreapp3.1\Razor\Views\Survey\Result.cshtml.g.cs
